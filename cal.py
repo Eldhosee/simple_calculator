@@ -15,7 +15,7 @@ def cal(x,y):
         z=x%y
         return z    
     else:
-        print("please the operator")
+        print("please enter the operator")
 print("enter the 2 vales: ")
 x=float(input())
 y=float(input())
